@@ -1,0 +1,50 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CSU44052_Supplimental_19304511.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  Camera.cpp
+C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\CSU44052_ComputerGraphics\Camera.cpp(75,19): warning C4244: '+=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\CSU44052_ComputerGraphics\Camera.cpp(76,21): warning C4244: '+=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+  Mesh.cpp
+  Model.cpp
+C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\CSU44052_ComputerGraphics\Model.cpp(219,48): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\CSU44052_ComputerGraphics\Model.cpp(223,35): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\CSU44052_ComputerGraphics\Model.cpp(244,44): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\CSU44052_ComputerGraphics\Model.cpp(245,114): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\CSU44052_ComputerGraphics\Model.cpp(246,43): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\CSU44052_ComputerGraphics\Model.cpp(250,92): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\CSU44052_ComputerGraphics\Model.cpp(255,45): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+  Shader.cpp
+  Skybox.cpp
+  Source.cpp
+C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\CSU44052_ComputerGraphics\Source.cpp(423,33): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\CSU44052_ComputerGraphics\Source.cpp(424,41): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Text.cpp
+  Texture.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+freetype.lib(autofit.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(autofit.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftbase.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftbase.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftbitmap.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftinit.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftinit.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftmm.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftmm.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(bdf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(bdf.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(cff.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(cff.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(type1cid.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(type1cid.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftgzip.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftlzw.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(pcf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(pcf.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(pfr.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(pfr.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(psaux.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(psaux.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(pshinter.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(pshinter.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(psmodule.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(psmodule.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(raster.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(raster.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(sfnt.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(sfnt.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(smooth.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(smooth.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(sdf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(sdf.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(svg.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(svg.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(truetype.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(truetype.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(type1.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(type1.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(type42.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(type42.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(winfnt.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(winfnt.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftdebug.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftsystem.obj)' or at 'C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\freetype.pdb'; linking object as if no debug info
+  CSU44052_ComputerGraphics.vcxproj -> C:\Users\saiba\Documents\Computer Graphics\CSU44052_ComputerGraphics\x64\Debug\CSU44052_Supplemental_19304511.exe
